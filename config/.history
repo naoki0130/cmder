@@ -1,0 +1,441 @@
+git clone --depth 1 https://github.com/pomutemu/milly
+vim powerline_core.lua 
+cd config\
+vim powerline_core.lua
+pip kivy install
+pip laibrary
+pip liblary
+pip3 install kivy
+cd ~
+cd /~
+cd ~/
+cd ~\
+pip3
+pip sow
+pipshow
+pip show
+pip check
+pip -v
+pip -V
+pip install -upgrade pip
+pip install pygame
+pip install cython
+pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
+pip install kivy.deps.gstreamer --extra-index-url https://kivy.org/downloads/packages/simple/
+pip install kibvy
+pip install kivy
+pip install kivy[base] kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple
+python 
+cd key12\
+python kivy.py 
+vim kivy.py
+python kivy.py
+pip li
+git add --all .
+ cd アメリカ地域研究
+vim kougi_14
+cd ..\git\an
+cd ..\git\naoki_onaga\
+cd git\naoki_onaga\
+git pull origin masteer
+cd MS-VUX\
+cd src\
+cd bunpou_onaga\
+vim all_mean.py 
+vim mi
+vim mean.py 
+cd ../../../../../
+cd Documents\
+cd WDSync
+cd WD Sync
+vim todo
+vim bmi.py
+cd python\
+cd kimatu_a\
+vim mod.py 
+vim kimatu_a.py 
+python kimatu_a.py 
+cd p
+Ls
+pyxel
+cd pyxel
+pip3 pyxel
+brew install python3 sdl2 sdl2_image
+pip3 install -U pyxel
+python -m pip install --upgrade pip
+ pip3 install -U pyxel 
+python 01_hello_pyxel.py
+vim 01_hello_pyxel.py
+git clone https://github.com/naoki0130/My_first_App.git
+vim m
+cd naoki_onaga\
+cd na
+cd previous_research
+git clone https://github.com/kikuchiken-waseda/naoki_onaga.git
+cd naoki_onaga[
+git comitte -m new
+git clone https://github.com/naoki0130/python.git
+cd python
+mkdir pyqt5
+vim test.py
+pip3 install PyQt5
+python test.py
+C:/Users/key12/AppData/Local/Programs/Python/Python38/python.exe c:\Users\key12\.vscode\extensions\ms-python.python-2020.6.91350\pythonFiles\pyvsc-run-isolated.py pip install -U black --user
+git commit -m new_pyqt
+cd ...
+cd memo
+vim 2020_09_05_takeda
+cd pyqt5\
+python sample.py
+cd gi
+cd git
+pip install django
+pip django-heroku
+pip install django-heroku
+pip install django-crispy-forms
+pip install gunicorn
+pip install --upgrade pip
+pip install django-cloudinary-storage
+pip install Pillow
+vim kamata_highschool 
+django-admin startproject cloud
+python manage.py
+python manage.py runserber
+python migrate
+python manage.py makemigrationbs
+from cloudinary.forms import CloudinaryFileField #追加
+class ModelnameCreateForm(forms.ModelForm):
+    class Meta:
+        model = Model_name
+        fields = ('image', 'video',)
+    image = CloudinaryFileField(
+            options={'folder': 'media/Model_image', 'tags': 'Model_name'})
+    movie = CloudinaryFileField(
+            options={'folder': 'media/Model_movie', 'tags': 'Model_name',
+                     'resource_type': 'video'})
+django-admin startproject config .
+python manage.py startapp blog
+git remote add origin https://github.com/naoki0130/test_cloud_app.git
+git remote add origin https://github.com/naoki0130/test_cloud_app
+heroku create 
+heroku open
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+cd ../git
+git commit -m new_text
+git pull origin maseter
+git pull origin masetr
+git pull origin mater
+git commit -m new_prezen
+git push origin amster
+cd git 
+cd naoki_onaga
+sudo apt-get install open-jtalk open-jtalk-mecab-naist-jdic hts-voice-nitech-jp-atr503-m001
+cd fite
+cd flite+hts_engine-1.07
+call "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat"
+cd git\naoki_onaga
+python sample_ex.py 
+git commit -m new_bData
+git checkout ex_analysis.py
+git checkout analysis_mean.py
+cd..
+git add .]
+C:/Users/key12/AppData/Local/Programs/Python/Python38/python.exe c:/Users/key12/git/naoki_onaga/B4/experiment/experience/calc.py
+git push orgin master
+cd bData
+cd y
+pip install japanize-matplotlib
+python detrend_y.py 
+cd ../o
+cd ../onaga
+python detrend_o.py 
+cd ../../..
+git commit -m new_bData_plot
+cd B4/exoeriment/experience/openjtalk
+cd B4/exoeriment/experience
+cd B4/experiment/experience/openjtalk
+cd experience[
+cd openjtalk/old
+cd B4/experiment/openjtalk
+cd B4/experiment/experience
+cd experimet
+cd experimence
+python analysis
+python analysis.py
+cd data
+cd atukawa
+python analysis_ex.py 
+python analysis.py 
+git add.
+git add C:\Users\key12\git\naoki_onaga\B4\experiment
+git add C:\Users\key12\git\naoki_onaga\B4\bData
+git commit -m bdata
+cd B4/expetiment/openjtalk
+cd B4/expetimen
+cd B4/expetiment
+python beep.py
+git commit -m new_data_save
+cd dat
+cd B4/experi
+cd B4/experiment
+cd experience
+cd openjtalk
+cd old
+cd ../../../
+cd ..
+cd B4/experiment/openjtalk/old
+python beep.py 
+git commit -m new_bdata
+cd ../../../../
+cd D:\G-796655
+cd B$
+cd B4
+cd experiment
+cd ex_data
+cd textgrid
+cd kai
+la
+pip install textgrid
+cd katou
+python s_e.TextGrid
+cd maezima
+cd nakai
+python s_e.py
+cd ./
+cd naoki
+cd ../otuki
+-----------------------------------------
+10-----------------------------------------
+システム発話 / 何もない区間
+Interval(10.34816, 24.92954, None)
+cd ../ryousuke
+cd ../yama
+python TextGrid_analysis.py 
+BATTERYREPORT
+powercfg batteryreport
+git config --global user.name 0130naoki
+git
+git clone https://github.com/naoki0130/stady.git
+git clone https://github.com/naoki0130/future_work.git
+cd cd git\
+cd git\
+sudo apt-get install fonts-powerline
+git clone https://github.com/powerline/fonts.git
+mv fonts /mnt/c/Users/mosh_shu/Downloads
+mv fonts/mnt/c/Users/mosh_shu/Downloads
+vim .ssh\id_rsa
+git config --global user.name naoki0130
+git config -l
+cd c:\program files (x86)\Steam\steamapps\common\SteamVR\bin\win64cd c:\program files (x86)\Steam\steamapps\common\SteamVR\bin\win64
+cd c:\program files (x86)\Steam\steamapps\common\SteamVR\bin\win64
+vrpathreg adddriver "C:\Program Files\Virtual Desktop Streamer\OpenVRDriver"
+vrpathreg
+powercfg /a
+powercfg /h off
+cd stady\Java_advanced\
+cd project
+cd src\project\
+clea
+vim sample.properties 
+vim vscode
+git pull orgin master
+cd stady\
+git commit -m new
+git clone https://github.com/naoki0130/java.git
+cd jaca
+vim README.md
+git 
+git commit -m first commit
+git pull origin master
+fatal: couldn't find remote ref master
+git push origin mastert
+git add README.md 
+git commit
+cd java\
+git commit -m new_servlet
+ipconfig
+ip install pandas
+﻿pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+cd
+pip install SpeechRecognition 
+pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+cd ..\Dowe
+cd ..\Downloads\
+ cmd /C "C:\Users\key12\AppData\Local\Microsoft\WindowsApps\python3.9.exe c:\Users\key12\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher 51141 -- c:\Users\key12\Downloads\mojiokoshi.py "
+ c: && cd c:\Users\key12\Downloads && cmd /C "C:\Users\key12\AppData\Local\Microsoft\WindowsApps\python3.9.exe c:\Users\key12\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher 51169 -- c:\Users\key12\Downloads\mojiokoshi.py "
+ cmd /C "C:\Users\key12\AppData\Local\Microsoft\WindowsApps\python3.9.exe c:\Users\key12\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher 55249 -- c:\Users\key12\Downloads\mojiokoshi.py "
+C:/Users/key12/AppData/Local/Microsoft/WindowsApps/python3.9.exe c:/Users/key12/Downloads/mojiokoshi.py
+ c: && cd c:\Users\key12\Downloads && cmd /C "C:\Users\key12\AppData\Local\Microsoft\WindowsApps\python3.9.exe c:\Users\key12\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher 50991 -- c:\Users\key12\Downloads\mojiokoshi.py "
+ c: && cd c:\Users\key12\Downloads && cmd /C "C:\Users\key12\AppData\Local\Microsoft\WindowsApps\python3.9.exe c:\Users\key12\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher 51003 -- c:\Users\key12\Downloads\mojiokoshi.py "
+python mojiokoshi.py 
+cd exe
+-m pip install --upgrade pip
+python speech_to_text.py 
+pip install openpyxl
+pip install styleframe
+pip install pyinstaller
+pyinstaller speechRecognition.py --onefile
+cd exe_speech_to_text\
+pyinstaller speech_to_text_xlsx.py --onefile
+cd ..\exe_speechRecognition\
+pyinstaller speechRecognition_to_xlsx.py -onefile
+pyinstaller speechRecognition_to_xlsx.py --onefile
+cd exe_speechRecognition\
+python speechRecognition_to_
+cd Downloads\SpeechRecognition\
+C:/Users/key12/AppData/Local/Microsoft/WindowsApps/python3.9.exe c:/Users/key12/Downloads/SpeechRecognition/speech_to_text_xlsx.py
+python3 speechRecognition_to_xlsx.py 
+node --version
+npm --version
+d'
+d:
+vim main.js
+node main.js 
+vim main.js 
+node main.js
+cd../
+s
+test.py
+cd Downloads\
+speechRecognition_to_xlsx.py
+python speechRecognition_to_xlsx.py 
+C:/Users/key12/AppData/Local/Microsoft/WindowsApps/python3.9.exe c:\Users\key12\.vscode\extensions\ms-python.python-2021.9.1246542782\pythonFiles\shell_exec.py C:/Users/key12/AppData/Local/Microsoft/WindowsApps/python3.9.exe -m pip install -U ipykernel C:/Users/key12/AppData/Local/Temp/tmp-23348FtCAAl1KwEGu.log
+crea
+clear
+python3 -m venv
+.NLP/bin/activate
+./NLP/bin/activate
+\NLP\Scripts\activate
+.\NLP\Scripts\activate.bat
+source NLP/bin/activate
+source
+python3 -m venv NLP
+cd NLP\
+cd Scripts\
+a
+activate.bat 
+cd ../../
+python venv -m
+python -v
+pip install matplotlib
+pip install jupyter
+d:/python/NLP_Learning/NLP/Scripts/python.exe c:\Users\key12\.vscode\extensions\ms-python.python-2021.9.1246542782\pythonFiles\shell_exec.py d:/python/NLP_Learning/NLP/Scripts/python.exe -m pip install -U ipykernel C:/Users/key12/AppData/Local/Temp/tmp-23348tLE8H2wjIPWg.log
+NLP\Scripts\activate.bat
+pip install pandas
+python pyenv
+vnev
+pip install pyxel
+d:\python\NLP_Learning\NLP\Scripts\python.exe -m pip install --upgrade pip
+pip install cv2
+pip install opencv-python
+python text.py 
+pip install speech_recognition
+pip install SpeechRecognition
+pip install pyaudio
+pip install pipwin
+pipwin install pyaudio
+cd 
+cd pye
+pyhton speech.py 
+xs NLP_Learning\
+cd NLP_Learning\
+python t
+python toExcel.py 
+python test.py 
+.\NLP\Scripts\activate
+python speechRecognition.py 
+d:/python/NLP_Learning/NLP/Scripts/activate.bat
+python -m speech_recognition
+cd etc\
+cd pyxel\
+python speech
+python speech.py 
+python main.py 
+C:/Users/key12/AppData/Local/Microsoft/WindowsApps/python3.9.exe d:/python/SpeechRecognition/speech_to_text_xlsx.py
+pip install scipy
+cd SpeechRecognition\
+python speech_to_text_xlsx.py 
+cnet stop OCRService
+net stop OCRService
+net stop OVRService
+cdd ../
+cd C:\
+vi
+ls
+vi MSDisplay_MultiDev_v1.0.1.60.exe 
+pyenv -version
+pyenv -V
+pyenv -versions
+python
+python sample_scrape.py
+cd scrape\
+pip install requests
+pip install beautifulsoup4
+pip install webdriver
+pip install selenium==3.141.0
+python sample_scrape.py 
+echo "# my_first_web_app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git branch -M master
+git push -u origin mster
+git config --global user.name "naoki0130"
+git config --global user.email key1220931@gmail.com
+git commit -m "mod"
+git remote add origin https://github.com/naoki0130/my_first_web_app.git
+git push -u origin master
+git status
+git add .
+git commit -m "mod2"
+git push origin master
+django-admin startproject my_first_web_app
+pip
+pyenv
+env
+env version
+pyenv -v
+$ brew install pyenv-virtualenv
+brew install pyenv-virtualenv
+pip install pyenv-virtualenv
+c:\users\key12\appdata\local\programs\python\python38\python.exe -m pip install --upgrade pip
+pip install pyenv-win --target %USERPROFILE%\.pyenv
+pyenv --version
+pyenv install --list
+pyenv install 3.9.0
+python version
+pyenv global 3.7.2
+pyenv install 3.8.0
+pyenv shell 3.9.0
+pyenv version
+pyenv local 3.8.0
+pyenv global 3.8.0
+cd ../
+pyenv versions
+cd django_web_app\
+python -m venv .venv
+source .venv/bin/activate
+PS
+venv/Scripts/activate
+PS venv/Scripts/activate
+.venv/Scripts/activate
+C:\Users\key12\git\django_web_app\.venv\Scripts\activate
+python -V
+C:\Users\key12\git\django_web_app>.venv\Scripts\activate.bat
+venv
+python venv
+python venv -v
+python venv -h
+venv -h
+python -h venv
+source venv/bin/activate
+hoge
+.venv\Scripts\activate.bat
+which python
+deactivate
+pip list
+.venv\Scripts\activate.bat 
